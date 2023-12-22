@@ -56,6 +56,7 @@
                                         <X-input-label for="cvc" value="CVC"/>
                                         <div class="mt-1">
                                             <x-text-input type="text" id="cvc" name="cvc" placeholder="CVC"/>
+                                        ????????? chackout kkkkkk
                                         </div>
                                     </div>
                                 </div>
